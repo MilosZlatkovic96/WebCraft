@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Unica+One&display=swap");
+
+body {
+  background-color: #d3d3d3;
+  font-family: Helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+.head1,
+.head2,
+.head3 {
+  text-transform: capitalize;
+  font-size: 80px;
+  line-height: 4.5;
+  color: #695309;
+}
+
+.head2 {
+  font-size: 150px;
+  color: #695309;
+
+  font-size: 120px;
+}
+
+.head3 {
+  font-size: 150px;
+}
+
+.logo {
+  font-family: "Unica One", sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  color: #695309;
+}
+
+.linkovi {
+  text-align: center;
+}
+
+.linkovi a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: capitalize;
+  border: 1px solid #695309;
+}
+
+.about,
+.us {
+  text-align: center;
+  line-height: 0;
+  font-size: 70px;
+  color: #695309;
+}
+
+.us {
+  color: black;
+  text-indent: 160px;
+}
+
+.sec1 {
+  text-align: right;
+  border-bottom: 1px solid #797979;
+}
+
+.sec1 h2 {
+  letter-spacing: -2px;
+  word-spacing: 5px;
+  font-size: 30px;
+}
+
+.sec1 p {
+  font-size: 20px;
+  text-decoration: underline;
+  color: #695309;
+}
+
+.sec2 {
+  text-align: center;
+  border-bottom: 1px solid #797979;
+}
+
+.sec2 h2 {
+  text-transform: uppercase;
+  word-spacing: 8px;
+  letter-spacing: 5px;
+  color: #695309;
+  font-size: 40px;
+}
+
+.sec2 p {
+  letter-spacing: 5px;
+  font-size: 20px;
+}
+
+.sec3 {
+  text-align: left;
+}
+
+.sec3 h2 {
+  font-size: 35px;
+}
+
+.sec3 p {
+  font-style: italic;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+
+.statistika {
+  text-align: center;
+}
+
+.statistika h2 {
+  color: #d3d3d3;
+  text-shadow: 2px 1px 15px #797979;
+  line-height: 1;
+  font-size: 100px;
+  letter-spacing: 50px;
+  text-transform: uppercase;
+}
+
+.prviRed {
+  text-align: center;
+  font-size: 85px;
+  word-spacing: 310px;
+  line-height: 0;
+  font-weight: bold;
+}
+
+.drugiRed {
+  font-size: 50px;
+  word-spacing: 205px;
+  line-height: 0;
+  font-style: italic;
+}
+
+.contact h1 {
+  font-size: 100px;
+  letter-spacing: -10px;
+  line-height: 0;
+  color: #d3d3d3;
+  text-shadow: 1px 1px 20px #797979;
+}
+
+.contact p {
+  width: 700px;
+  text-align: justify;
+  text-indent: 50px;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
